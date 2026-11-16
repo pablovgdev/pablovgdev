@@ -28,3 +28,7 @@ All 19 projects and what clients say about them: **[pablovgdev.github.io](https:
 ## Contact me
 
 Message me on [LinkedIn](https://www.linkedin.com/in/pablovgdev/) with what you need. I'll tell you if I can help, and how.
+
+## Hire me
+
+If you would rather work through a freelance platform, you can hire me on [Upwork](https://www.upwork.com/freelancers/~01716bb0728e8474ae) or [Malt](https://www.malt.com/profile/pablovgdev).
